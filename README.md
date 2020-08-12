@@ -12,6 +12,7 @@ Find out more about me & feel free to connect with me here: \
 [![Twitter Badge](https://img.shields.io/badge/-v_yakymiv-3ba1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/v_yakymiv)](https://twitter.com/v_yakymiv)
 [![Skype Badge](https://img.shields.io/badge/-spartaque71-389ddb?style=flat-square&logo=Skype&logoColor=white)]()
 [![Gmail Badge](https://img.shields.io/badge/-volodymyr.yakymiv@xsine.co-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:volodymyr.yakymiv@xsine.co)](mailto:volodymyr.yakymiv@xsine.co)
+[![Calendly](https://img.shields.io/badge/-calendly-00A3FA?style=flat-square&logo=googlecalendar&logoColor=white&link=https://calendly.com/vyakymiv/30min)](https://calendly.com/vyakymiv/30min)
 
 ## Languages & Tools
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
