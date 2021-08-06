@@ -1,10 +1,8 @@
-<img align='left' src='https://media-exp1.licdn.com/dms/image/C5612AQHDPX0LU9nx6A/article-cover_image-shrink_600_2000/0/1598461891528?e=1633564800&v=beta&t=aUKQLoUoGUwji0oULmWww87oacyvIgPrpdtVxn5Kiuo' width="400">
+<img src='https://media-exp1.licdn.com/dms/image/C5612AQHDPX0LU9nx6A/article-cover_image-shrink_600_2000/0/1598461891528?e=1633564800&v=beta&t=aUKQLoUoGUwji0oULmWww87oacyvIgPrpdtVxn5Kiuo' width="400">
 
 - 👨‍💻 I'm a CTO & Co-Founder at xSine, tech company located in Lviv, Ukraine.
 - 🚚 POC, MVP • SaaS, IaaS, CRM & ERP • Chrome Extensions • API • 3rd party API integration 
 - 💬 Ask me about anything! I am happy to help and guide you.
-
-<img align='right' src='https://media3.giphy.com/media/l0MYzwTebntNEii4M/giphy.gif' width='200"'>
 
 
 Find out more about me & feel free to connect with me here: \
@@ -12,7 +10,7 @@ Find out more about me & feel free to connect with me here: \
 [![Twitter Badge](https://img.shields.io/badge/-v_yakymiv-3ba1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/v_yakymiv)](https://twitter.com/v_yakymiv)
 [![Skype Badge](https://img.shields.io/badge/-spartaque71-389ddb?style=flat-square&logo=Skype&logoColor=white)]()
 [![Gmail Badge](https://img.shields.io/badge/-volodymyr.yakymiv@xsine.co-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:volodymyr.yakymiv@xsine.co)](mailto:volodymyr.yakymiv@xsine.co)
-[![Upwork Badge](https://img.shields.io/badge/-upwork-c14438?style=flat-square&logo=Gmail&logoColor=white&link=https://www.upwork.com/fl/vyakymiv)](https://www.upwork.com/fl/vyakymiv)
+[![Upwork Badge](https://img.shields.io/badge/-upwork-6fdb43?style=flat-square&logo=upwork&logoColor=white&link=https://www.upwork.com/fl/vyakymiv)](https://www.upwork.com/fl/vyakymiv)
 [![Calendly_Badge](https://img.shields.io/badge/-calendly-00A3FA?style=flat-square&logo=googlecalendar&logoColor=white&link=https://calendly.com/vyakymiv/30min)](https://calendly.com/vyakymiv/30min)
 
 ## Languages & Tools
