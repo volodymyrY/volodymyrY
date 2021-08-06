@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5612AQHDPX0LU9nx6A/article-cover_image-shrink_600_2000/0/1598461891528?e=1633564800&v=beta&t=aUKQLoUoGUwji0oULmWww87oacyvIgPrpdtVxn5Kiuo" width="400"
+<img align='left' src='https://media-exp1.licdn.com/dms/image/C5612AQHDPX0LU9nx6A/article-cover_image-shrink_600_2000/0/1598461891528?e=1633564800&v=beta&t=aUKQLoUoGUwji0oULmWww87oacyvIgPrpdtVxn5Kiuo' width="400">
 
 - 👨‍💻 I'm a CTO & Co-Founder at xSine, tech company located in Lviv, Ukraine.
 - 🚚 POC, MVP • SaaS, IaaS, CRM & ERP • Chrome Extensions • API • 3rd party API integration 
