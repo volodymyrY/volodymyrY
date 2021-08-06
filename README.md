@@ -20,8 +20,8 @@ Find out more about me & feel free to connect with me here: \
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-af2b2d?style=flat-square&logo=angular) \
-![RDBMS](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![NoSQL](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![RDBMS](https://img.shields.io/badge/-RDBMS-336791?style=flat-square&logo=postgresql)
+![NoSQL](https://img.shields.io/badge/-NoSQL-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch) \
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
